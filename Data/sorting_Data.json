@@ -1,0 +1,22 @@
+[
+  {
+    "filterType": "A_TO_Z",
+    "locator": "SORT_AZ",
+    "expectedOrder": "ascending"
+  },
+  {
+    "filterType": "Z_TO_A",
+    "locator": "SORT_ZA",
+    "expectedOrder": "descending"
+  },
+  {
+    "filterType": "LOW_TO_HIGH",
+    "locator": "SORT_LOW_HIGH",
+    "expectedOrder": "price_low"
+  },
+  {
+    "filterType": "HIGH_TO_LOW",
+    "locator": "SORT_HIGH_LOW",
+    "expectedOrder": "price_high"
+  }
+]
